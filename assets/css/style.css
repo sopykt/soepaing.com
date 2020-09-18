@@ -2788,7 +2788,7 @@ p {
     font-size: 20px;
     font-weight: 600;
     line-height: 25px;
-    color: #fff;
+    color: #fff !important;
     position: relative;
     margin-top: 24px; }
   .pricing-style .pricing-header .month {
